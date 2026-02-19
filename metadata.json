@@ -1,0 +1,7 @@
+{
+  "name": "Copy of D-Fitness Members",
+  "description": "Premium elite fitness member portal for D-Fitness Gym, featuring workout logging, diet tracking, leaderboard, and attendance systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
